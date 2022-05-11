@@ -1,0 +1,1 @@
+So this application times the seconds between each key stroke. Once the count is above 6 seconds the screen will begin to fade as a warning. But as soon as you begin to type the screen will be restored and you can continue typing. Enjoy!
